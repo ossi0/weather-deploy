@@ -125,6 +125,7 @@ export const asemat = [
   ["Mäntsälä Hirvihaara", 103794],
   ["Nurmes Valtimo", 101743],
   ["Nurmijärvi Röykkä", 101149],
+  ["Oulu Kaukovainio", 108040],
   ["Oulu Oulunsalo Pellonpää", 101799],
   ["Oulu Vihreäsaari satama", 101794],
   ["Oulu lentoasema", 101786],
