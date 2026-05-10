@@ -125,6 +125,7 @@ const asemat = [
   ["Mäntsälä Hirvihaara", 101533],
   ["Nurmes Valtimo", 101533],
   ["Nurmijärvi Röykkä", 101533],
+  ["Oulu Kaukovainio", 108040],
   ["Oulu Oulunsalo Pellonpää", 101533],
   ["Oulu Vihreäsaari harbour", 101533],
   ["Oulu airport", 101533],
